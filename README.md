@@ -16,13 +16,7 @@ Para aprender Python, estoy utilizando una variedad de recursos en línea, como 
 
 ## Progreso
 
-Mi primer meta es ir aprendiendo los conceptos básicos de Python, incluyendo:
-
-- Variables y tipos de datos
-- Estructuras de control de flujo (if/else, bucles)
-- Funciones y módulos
-- Listas, tuplas y diccionarios
-- Operaciones de entrada/salida
+A medida que avanzo en mi aprendizaje, actualizo y agrego contenido a este repositorio, lo que me permite mantener un registro detallado de mi progreso y revisar mi trabajo anterior en cualquier momento. Además, también puedo utilizar este repositorio para experimentar con diferentes enfoques de programación y probar nuevos conceptos y técnicas.
 
 ## Contribuciones
 
