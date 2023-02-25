@@ -20,4 +20,4 @@ A medida que avanzo en mi aprendizaje, actualizo y agrego contenido a este repos
 
 ## Contribuciones
 
-Si tienes alguna sugerencia o consejo para mi primer acercamiento con Python, ¡no dudes en compartirlo! Aprecio cualquier ayuda que pueda ayudarme a mejorar mi comprensión del lenguaje y a convertirme en un mejor desarrollador.
+Si tenes alguna sugerencia o consejo para mi primer acercamiento con Python, ¡no dudes en compartirlo! Aprecio cualquier ayuda que pueda ayudarme a mejorar mi comprensión del lenguaje y a convertirme en un mejor desarrollador.
