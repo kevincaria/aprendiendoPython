@@ -28,7 +28,7 @@ aunque no sea buena practica, interesante caracteristica de la sintaxis del leng
 name, surname, age = 'Kevin', 'Caria', 29
 print('My name is:', name, 'My surname is:', surname, 'My age is:', age)
 
-#Cambiamos el tipo de las variables, notando lo debilmente tipado que es python
+#Cambiamos el tipo de las variables, notando el tipado dinamico de python
 name = 29
 age = 'Kevin'
 
