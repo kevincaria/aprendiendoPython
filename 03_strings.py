@@ -2,16 +2,16 @@
 
 # Definimos una cadena de texto
 string = "Hola, mundo!"
-otherString = 'Mi otro string'
+other_string = 'Mi otro string'
 
 #Concatenando strings 
-print(string + otherString)
+print(string + other_string)
 
 #Salto de linea en un string con \n
-lineString = 'Este es un String \ncon salto de linea'
+line_string = 'Este es un String \ncon salto de linea'
 
 #Tabulación en un string con \t
-tabString = '\tEste es un String con tab'
+tab_string = '\tEste es un String con tab'
 #Si a \t o a \n le agregamos doble barra \\ no realiza el salto o el tab \\t
 
 # Accedemos a los caracteres de la cadena utilizando índices
