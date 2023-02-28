@@ -25,6 +25,14 @@ print(len(numbers))  # 5
 numbers.append(6)
 print(numbers)  # [1, 2, 3, 4, 5, 6]
 
+# Utilizamos el método copy() para copiar los elementos de una lista a otra
+others_numbers = numbers.copy()
+print(others_numbers)
+
+#Utilizamos el método clear() para limpiar la lista de elementos
+others_numbers.clear()
+print(others_numbers)
+
 # Utilizamos el método extend() para añadir varios elementos a la lista
 numbers.extend([7, 8, 9])
 print(numbers)  # [1, 2, 3, 4, 5, 6, 7, 8, 9]
