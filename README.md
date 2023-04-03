@@ -12,11 +12,11 @@ Para aprender Python, estoy utilizando una variedad de recursos en línea, como 
 
 - Sitio web de Python: [https://www.python.org/](https://www.python.org/)
 - Tutorial de Python (versión en español): [https://docs.python.org/es/3/tutorial/index.html](https://docs.python.org/es/3/tutorial/index.html)
-- Curso de Python para principiantes en YouTube: [https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_](https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_)
+- Curso de Python en YouTube: [https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_](https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_)
 
 ## Progreso
 
-A medida que avanzo en mi aprendizaje, actualizo y agrego contenido a este repositorio, lo que me permite mantener un registro detallado de mi progreso y revisar mi trabajo anterior en cualquier momento. Además, también puedo utilizar este repositorio para experimentar con diferentes enfoques de programación y probar nuevos conceptos y técnicas.
+A medida que avanzo en mi aprendizaje, actualizo y agrego contenido a este repositorio, lo que me permite mantener un registro detallado de mi progreso y revisar mi trabajo anterior en cualquier momento. 
 
 ## Contribuciones
 
